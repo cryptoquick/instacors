@@ -1,0 +1,4 @@
+instacors
+=========
+
+Instant CORS service
